@@ -14,15 +14,15 @@ You should be able to:
     - How to call a function with parameters
 * Loops:
   - How to write a loop
-Predict what will happen when the loop is executed
-Predict how many times the loop will iterate
-Loops vs. Functions
-When to use loops
-When to use functions
-Abstraction
-How do functions lead to higher levels of abstraction
-How does abstraction enable programming teams to work more effectively
-Top down design (TDD):
-Describe the process
-Provide examples of TDD, given a simple problem
-Explain how TDD helps programers organize their work and develop abstractions.
+  - Predict what will happen when the loop is executed
+  - Predict how many times the loop will iterate
+* Loops vs. Functions
+  - When to use loops (when is a loop sufficient to accomplish your goal)
+  - When to use functions (when is a function required, or at least strongly suggested)
+* Abstraction
+  - How functions enable higher levels of abstraction
+  - How does abstraction enable programming teams to work together more effectively
+* Top down design (TDD):
+  - Describe the process
+  - Provide examples of TDD, given a simple problem
+  - Explain how TDD helps programers organize their work and develop abstractions.
